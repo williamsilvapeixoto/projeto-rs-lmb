@@ -68,7 +68,7 @@ main section.cll .tela iframe{
 main section.buttons{
     position: absolute;
     top: 0;
-    right: 20px;
+    right: 5px;
     display: flex;
     flex-direction: column;
     height: 80%;
@@ -79,7 +79,6 @@ main section.buttons{
 
 .buttons a{
     position: relative;
-    background-color: gray;
 }
 
 .youtube img{
